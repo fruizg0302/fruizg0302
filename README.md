@@ -22,5 +22,6 @@ I am a software engineer bsaed on Mexico City, with 12 years of experience. I've
 - 📫 How to reach me:
   - You can send me an email to: fernando.ruiz@hey.com
   - Telegram: @fruizg0302
+  - LinkedIn: [here](https://www.linkedin.com/in/fernando-ruiz-guzmán-27a56164/)
 - ⚡ Fun fact: I'm a Mathematics student at UNADM.
 
