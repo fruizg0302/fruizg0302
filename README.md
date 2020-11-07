@@ -2,9 +2,12 @@
 
 I am a software engineer bsaed on Mexico City, with 12 years of experience. I've been working in these places
 
-[Conekta](https://conekta.com/)
 [Apptegy](https://conekta.com/)
+
+[Conekta](https://conekta.com/)
+
 [Edgebound](https://conekta.com/)
+
 [Mexican Federal Health Ministry](https://www.gob.mx/salud)
 
 
