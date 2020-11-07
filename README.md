@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi my name is Fernando Ruiz, thanks for the visit 👋
 
 <!--
 **fruizg0302/fruizg0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a software engineer bsaed on Mexico City, with 12 years of experience. I've been working in these places
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Conekta](https://conekta.com/)
+[Apptegy](https://conekta.com/)
+[Edgebound](https://conekta.com/)
+[Mexican Federal Health Ministry](https://www.gob.mx/salud)
+
+
+- 🔭 I’m currently working on Apptegy as a Ruby on Rails backend engineer.
+  - My profesional skills include: 
+   - Ruby on Rails
+   - RSpec
+   - PostgreSQL
+   - Design Patterns
+   - Good Practices
+- 🌱 I’m currently learning GraphQL, German and I'm looking to become a software architect.
+- 📫 How to reach me:
+  - You can send me an email to: fernando.ruiz@hey.com
+  - Telegram: @fruizg0302
+- ⚡ Fun fact: I'm a Mathematics student at UNADM.
 -->
