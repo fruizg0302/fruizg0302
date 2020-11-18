@@ -1,6 +1,6 @@
 ### Hi my name is Fernando Ruiz, thanks for the visit 👋
 
-I am a software engineer bsaed on Mexico City, with 12 years of experience. I've been working in these places
+I am a software engineer based on Mexico City, with 12 years of experience. I've been working in these places
 
 [Apptegy](https://conekta.com/)
 
