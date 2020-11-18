@@ -15,6 +15,8 @@ I am a software engineer bsaed on Mexico City, with 12 years of experience. I've
   - My profesional skills include: 
    - Ruby on Rails
    - RSpec
+   - NodeJS
+   - Sails.js
    - PostgreSQL
    - Design Patterns
    - Good Practices
