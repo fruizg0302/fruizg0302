@@ -2,7 +2,9 @@
 
 I am a software engineer based on Mexico City, with 12 years of experience. I've been working in these places
 
-[Apptegy](https://conekta.com/)
+[Encora](https://http://encora.com/)
+
+[Apptegy](https://apptegy.com/)
 
 [Conekta](https://conekta.com/)
 
@@ -16,7 +18,7 @@ I am a software engineer based on Mexico City, with 12 years of experience. I've
    - Ruby on Rails
    - RSpec
    - NodeJS
-   - Sails.js
+   - Adonis JS (MVC monolithic framework)
    - PostgreSQL
    - Design Patterns
    - Good Practices
