@@ -2,8 +2,6 @@
 
 I am a software engineer based on Mexico City, with 12 years of experience. I've been working in these places
 
-[Encora](https://http://encora.com/)
-
 [Apptegy](https://apptegy.com/)
 
 [Conekta](https://conekta.com/)
