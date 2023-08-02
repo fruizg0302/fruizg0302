@@ -17,14 +17,12 @@ I am a software engineer based in Mexico City, with 16 years of experience. I've
 - 🏥[Mexican Federal Health Ministry](https://www.gob.mx/salud)
 
 - 🔭 I’m currently working on Digital Femsa as a Software Architect
-  - My professional skills include the following: 
+  - My professional skills include the following technologies: 
     - Ruby on Rails
     - Elixir/Phoenix
-    - Java
-    - RSpec
-    - NodeJS
+    - Java/Spring
+    - Javascript/NodeJS
     - PostgreSQL
-    - Design Patterns
     - GraphQL
     - gRPC
 - 🌱 I’m currently learning German
