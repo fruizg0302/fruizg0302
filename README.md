@@ -9,10 +9,9 @@ By day, I write Ruby like poetry. By night, I study Mathematics just *because I 
 
 ## 🛠️ What I Do  
 
-🔭 **Currently at [Bugcrowd](https://www.bugcrowd.com/)** — shipping secure systems with Ruby on Rails, and occasionally sprinkling some Elixir/Phoenix magic.
+🔭 **Currently at 🐞 [Bugcrowd](https://www.bugcrowd.com/)** — shipping secure systems with Ruby on Rails, and occasionally sprinkling some Kotlin here and there.
 
 📍 **Previously built cool stuff at:**
-- 🐞 [Bugcrowd](https://www.bugcrowd.com/)
 - 💵 [Acima Credit](https://github.com/acima-credit)
 - 🏪 [Digital FEMSA](https://www.femsa.com/es/unidades-de-negocio/digital-femsa/)
 - 🌊 [Liquido](https://www.liquido.com)
