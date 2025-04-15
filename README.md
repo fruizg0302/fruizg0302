@@ -5,7 +5,7 @@ Welcome to my little corner of the internet — where elegant code meets pragmat
 ## 🧠 Who I Am  
 I'm a seasoned Software Engineer from Mexico City with **17 years of experience** building scalable systems, shipping secure code, and solving messy problems with clean logic.
 
-By day, I write Ruby like poetry. By night, I study Mathematics just *because I can*.
+By day, I write Ruby like poetry. By night, I study Mathematics at UNADM just *because I can*.
 
 ## 🛠️ What I Do  
 
