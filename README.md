@@ -1,6 +1,10 @@
 ### Hi my name is Fernando Ruiz, thanks for the visit 👋
 
-I am a software engineer based in Mexico City, with 16 years of experience. I've been working in these places
+I am a software engineer based in Mexico City, with 17 years of experience. I've been working in these places
+
+- 🐞 [Bugcrowd](https://www.bugcrowd.com/)
+
+- 💵 [Acima Credit](https://github.com/acima-credit)
 
 - 🏪 [Digital FEMSA](https://www.femsa.com/es/unidades-de-negocio/digital-femsa/)
 
@@ -16,7 +20,7 @@ I am a software engineer based in Mexico City, with 16 years of experience. I've
 
 - 🏥[Mexican Federal Health Ministry](https://www.gob.mx/salud)
 
-- 🔭 I’m currently working on Digital Femsa as a Software Architect
+- 🔭 I’m currently working on Bugcrowd as a Ruby on Rails engineer
   - My professional skills include the following technologies: 
     - Ruby on Rails
     - Elixir/Phoenix
