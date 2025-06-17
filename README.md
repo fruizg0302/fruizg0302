@@ -23,7 +23,7 @@ The best places where I been worked were:
 
 - 🔭 
   - My profesional skills include: 
-   - Excel
+   - CSS & HTML
    - SQL
    - Agile methodologies (SCRUM)
    - Certified Product Owner 
