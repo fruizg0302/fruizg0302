@@ -4,12 +4,12 @@ Senior Software Engineer from Mexico City with 17+ years building scalable syste
 
 ## 🎯 What I'm Up To
 
-Currently **Tech Lead at [Bugcrowd](https://www.bugcrowd.com/)**, where I ship secure Ruby on Rails systems for the cybersecurity platform. Also working with clients through [Encora Inc.](https://www.encora.com/) — because variety keeps things interesting.
+Currently **at [Bugcrowd](https://www.bugcrowd.com/)**, where I ship secure Ruby on Rails systems for the cybersecurity platform. Also working with clients through [Encora Inc.](https://www.encora.com/) — because variety keeps things interesting.
 
 ## 🛠️ The Stack
 
 **Core:** Ruby on Rails · React · TypeScript · GraphQL · PostgreSQL  
-**Also fluent in:** Elixir · Phoenix · Java · Spring · Node.js  
+**Also fluent in:** Elixir · Phoenix · Kotlin · Spring · Node.js  
 **Currently exploring:** Nix · Terraform · Kafka · Anything with a good REPL
 
 ## 📚 Learning Never Stops
