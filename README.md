@@ -1,32 +1,37 @@
-# 👋 Hola hola, I'm Fernando
+# Hola, I'm Fernando
 
-Senior Software Engineer from Mexico City with 17+ years building scalable systems, securing platforms, and occasionally pretending I know what I'm doing in Rust.
+Software engineer based in Mexico City. 17-ish years building things for the web — mostly backend, occasionally fullstack, always opinionated about my dotfiles.
 
-## 🎯 What I'm Up To
+Currently at [Bugcrowd](https://www.bugcrowd.com/) via [Encora](https://www.encora.com/), working on secure Ruby on Rails systems for the cybersecurity platform.
 
-Currently **at [Bugcrowd](https://www.bugcrowd.com/)**, where I ship secure Ruby on Rails systems for the cybersecurity platform. Also working with clients through [Encora Inc.](https://www.encora.com/) — because variety keeps things interesting.
+## What I work with
 
-## 🛠️ The Stack
+**Day job:**
+- Ruby on Rails
+- React
+- TypeScript
+- GraphQL
+- PostgreSQL
 
-**Core:** Ruby on Rails · React · TypeScript · GraphQL · PostgreSQL  
-**Also fluent in:** Elixir · Phoenix · Kotlin · Spring · Node.js  
-**Currently exploring:** Nix · Terraform · Kafka · Anything with a good REPL
+**After hours:** Elixir · Phoenix · Svelte · whatever seems interesting that week
 
-## 📚 Learning Never Stops
+## Outside of code
 
-- 🇩🇪 Learning German (the compound words are winning)
-- 📐 Pursuing a Bachelor's in Mathematics at UNADM
-- ☕ Perfecting my espresso game
+- Learning German (the compound words are winning)
+- Pursuing a math degree at UNADM
+- Dialing in espresso recipes
 
-## 💼 Previously Built Things At
+## Previously
 
-Bloomberg · The Bouqs · Acima Credit · Digital FEMSA · Liquido · Conekta · Apptegy · Mexican Federal Health Ministry
+- Bloomberg
+- The Bouqs
+- Acima Credit
+- Digital FEMSA
+- Liquido
+- Conekta
+- Apptegy
+- Mexican Federal Health Ministry
 
-## 📫 Get In Touch
+## Contact
 
-**Email:** fernando.ruiz@hey.com  
-**Telegram:** [@fruizg0302](https://t.me/fruizg0302)
-
----
-
-*Write code that makes sense at 2PM, not just 2AM.*
+fernando.ruiz@hey.com · [@fruizg0302 on Telegram](https://t.me/fruizg0302)
