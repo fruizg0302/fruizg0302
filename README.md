@@ -1,38 +1,101 @@
-### Hi my name is Luz Di, thanks for the visit 👋
+# Hi, I'm Luz 👋
 
-I'm a public accountant but I consider myself a versatile professional. In order to better understand the technology sector applied to the e-commerce payments market, I increased my knowledge of the product and engineering areas, through new courses and certifications.
+Product builder, public accountant, and curious mind exploring the intersection of **technology, finance, and real-world systems**.
 
-In general, I have sought to understand how the design of a digital product has to satisfy both the customer experience needs and the profitability business needs.
+I started my career in accounting and financial operations, but over the years I became deeply interested in **how digital products are designed, built, and scaled**.
 
-Since 2012, I gained experience leading teams, inspiring ideas and developing talents. And since 2018, I have been working in the Fintech sector, venturing into the combination of Operations and Product, being the leader of both the processes and the development of PRD's for the company's internal tools.
+Today I work at the intersection of:
 
-I loved technology so much that I have expanded my academic preparation in the field of software and data science.
-I believe that in the world of software, it is better to have concrete actions with good results than to wait for the perfect products to be launched on the market.
+• Product Management  
+• Fintech operations  
+• System design & process thinking  
+• Data and experimentation  
 
-Not for nothing does the agile approach invite us to use iteration as a faster way to validate our business ideas.
-Hoping to find in you as a reader, a next colleague, may the best of successes come for both of us.
-Best regards.
+I enjoy understanding **how things work underneath the surface** — from payment flows and reconciliation systems to the logic behind product decisions.
 
-The best places where I been worked were: 
+---
 
-[Holacash](https://www.holacash.mx/)
+## What I do
 
-[Conekta](https://conekta.com/)
+My background combines **finance, operations, and product thinking**.
 
-[CEMEX](https://www.cemexmexico.com/)
+I have worked in the LATAM fintech ecosystem helping build and improve systems related to:
 
-- 🔭 
-  - My profesional skills include: 
-   - CSS & HTML
-   - SQL
-   - Agile methodologies (SCRUM)
-   - Certified Product Owner 
-   - Talent development and management
-   - Process mapping and control development
-   - Financial reconciliation
-   - Good Practices
-- 🌱 I am currently doing my masters in data science
-- 📫 How to reach me:
-  - You can send me an email to: luzdiana.paz@gmail.com
-- ⚡ Fun fact: I'm the cat lady (6 cats), but married.
+• payment operations  
+• reconciliation and financial control  
+• internal tools  
+• product requirements and system logic  
+• operational processes for scaling companies
 
+I enjoy translating **complex operational problems into structured systems**.
+
+---
+
+## Things I believe about building products
+
+- Perfect products don't exist. **Iteration beats perfection.**
+- Good systems come from **understanding the real problem first.**
+- Technology is most powerful when it **solves operational chaos.**
+
+---
+
+## Currently exploring
+
+Right now I'm learning more about:
+
+• data science  
+• systems thinking  
+• product strategy  
+• automation and tooling  
+
+I like experimenting, building small things, and documenting what I learn.
+
+---
+
+## Tools & skills
+
+**Product & Business**
+
+- Product thinking
+- Agile methodologies (SCRUM)
+- Process mapping
+- Operational design
+- Product Requirements (PRDs)
+
+**Technical**
+
+- HTML & CSS  
+- SQL  
+- Basic scripting & data workflows
+
+**Domain knowledge**
+
+- Fintech operations
+- Payment systems
+- Financial reconciliation
+- Internal product tools
+
+---
+
+## Where I've worked
+
+- Holacash
+- Conekta
+- CEMEX
+
+---
+
+## A little more about me
+
+• Accountant who ended up loving software  
+• Curious about how systems work  
+• Builder mindset  
+• Cat person 🐈 (yes… 6 cats)
+
+---
+
+## Contact
+
+📬 luzdiana.paz@gmail.com
+
+Always happy to connect with people building interesting things.
