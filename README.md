@@ -1,101 +1,79 @@
 # Hi, I'm Luz 👋
 
-Product builder, public accountant, and curious mind exploring the intersection of **technology, finance, and real-world systems**.
-
-I started my career in accounting and financial operations, but over the years I became deeply interested in **how digital products are designed, built, and scaled**.
-
-Today I work at the intersection of:
-
-• Product Management  
-• Fintech operations  
-• System design & process thinking  
-• Data and experimentation  
-
-I enjoy understanding **how things work underneath the surface** — from payment flows and reconciliation systems to the logic behind product decisions.
+**Product builder · Public accountant · Fintech operator · Founder in progress**
 
 ---
 
 ## What I do
 
-My background combines **finance, operations, and product thinking**.
+I build at the intersection of finance, operations, and software. Started my career as a public accountant, spent 7+ years in fintech SaaS focused on payment methods across LATAM, and now I'm channeling that into products I'm building myself.
 
-I have worked in the LATAM fintech ecosystem helping build and improve systems related to:
+My background spans:
+- Product management in fintech (payment flows, reconciliation, internal tools)
+- Financial operations and process design for scaling companies
+- Translating messy operational problems into structured systems
+- Working with PACs, SAT compliance, and Mexican fiscal infrastructure
 
-• payment operations  
-• reconciliation and financial control  
-• internal tools  
-• product requirements and system logic  
-• operational processes for scaling companies
+---
 
-I enjoy translating **complex operational problems into structured systems**.
+## What I'm building right now
+
+### 🧾 Nora — `Mercury-Atlas/nora_invoicing`
+SaaS platform for invoicing (timbrado CFDI), accounting, taxes, and fiscal defense — built for Mexican freelancers and small businesses. Active development, approaching V1 launch.
+
+### 🧘 Paz&Finanzas
+A method-based brand for developing financial peace of mind. Content, frameworks, and tools to help people feel less stressed about money — not just manage it better.
 
 ---
 
 ## Things I believe about building products
 
-- Perfect products don't exist. **Iteration beats perfection.**
-- Good systems come from **understanding the real problem first.**
-- Technology is most powerful when it **solves operational chaos.**
-
----
-
-## Currently exploring
-
-Right now I'm learning more about:
-
-• data science  
-• systems thinking  
-• product strategy  
-• automation and tooling  
-
-I like experimenting, building small things, and documenting what I learn.
+- Perfect products don't exist. Iteration beats perfection.
+- Good systems come from understanding the real problem first.
+- Technology is most powerful when it solves operational chaos.
+- If you've worked in finance, you already think in systems — you just have to learn the language.
 
 ---
 
 ## Tools & skills
 
-**Product & Business**
+**Product & business:** Product thinking · Agile / SCRUM · Process mapping · Operational design · PRDs & system logic · SaaS metrics (MRR, CAC, churn)
 
-- Product thinking
-- Agile methodologies (SCRUM)
-- Process mapping
-- Operational design
-- Product Requirements (PRDs)
+**Technical:** HTML & CSS · SQL · Basic scripting & data workflows · GitHub (issues, PRs, project tracking)
 
-**Technical**
-
-- HTML & CSS  
-- SQL  
-- Basic scripting & data workflows
-
-**Domain knowledge**
-
-- Fintech operations
-- Payment systems
-- Financial reconciliation
-- Internal product tools
+**Domain knowledge:** Fintech operations · Payment systems LATAM · Financial reconciliation · Fiscal / SAT (México) · Internal product tools
 
 ---
 
 ## Where I've worked
 
-- Holacash
-- Conekta
-- CEMEX
+- **Holacash**
+- **Conekta**
+- **CEMEX**
+
+---
+
+## Currently exploring
+
+- Data science & analytics for product decisions
+- Systems thinking applied to business design
+- SaaS growth strategy and go-to-market for LATAM
+- Automation and no-code/low-code tooling
 
 ---
 
 ## A little more about me
 
-• Accountant who ended up loving software  
-• Curious about how systems work  
-• Builder mindset  
-• Cat person 🐈 (yes… 6 cats)
+- Accountant who ended up loving software
+- Builder mindset — I learn best by building things
+- Cat person (yes... 6 cats 🐈)
+- Also into aerial dance, Lego, drums, and anime
 
 ---
 
 ## Contact
 
-📬 luzdiana.paz@gmail.com
+📬 luzdiana.paz@gmail.com · [LinkedIn](https://www.linkedin.com/in/cpluzdianapaz)
 
-Always happy to connect with people building interesting things.
+Always happy to connect with people building interesting things in LATAM fintech, fiscal tech, or SaaS.
+
