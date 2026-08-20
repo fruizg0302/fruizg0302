@@ -1,67 +1,38 @@
 <div align="center">
-
-# Hola, I'm Fernando
-
-**Software engineer, Mexico City** · 17-ish years building things for the web, mostly backend, occasionally fullstack, always opinionated about my dotfiles
-
-Currently at **[Bugcrowd](https://www.bugcrowd.com/)** via **[Encora](https://www.encora.com/)**, working on secure Ruby on Rails systems for the cybersecurity platform
-
+  <img src="./header.svg" alt="fernando@resume — zsh — 110×45" width="100%">
 </div>
 
 <br>
 
-## What I work with
+❯ **ls ./stack --sort=experience**
 
-**Day job**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-c15f3c?style=flat-square&logo=rubyonrails&logoColor=white)
-![React](https://img.shields.io/badge/React-1e40af?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e40af?style=flat-square&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-c15f3c?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e40af?style=flat-square&logo=postgresql&logoColor=white)
-
-**After hours**
-
-![Elixir](https://img.shields.io/badge/Elixir-6b6455?style=flat-square&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-6b6455?style=flat-square&logo=phoenixframework&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-6b6455?style=flat-square&logo=svelte&logoColor=white)
-&nbsp;·&nbsp;whatever seems interesting that week
+`Ruby / Rails · 15+ yrs`&nbsp; `PostgreSQL · 15+ yrs`&nbsp; `REST APIs · 15+ yrs`
+`CI/CD · 10 yrs`&nbsp; `Elixir / Phoenix · 7 yrs`&nbsp; `Docker · 7 yrs`
+`AWS · 5 yrs`&nbsp; `GraphQL · 4 yrs`&nbsp; `Distributed Sys. · 3–4 yrs`
+`Kubernetes · 2 yrs`&nbsp; `DataDog · 1 yr`&nbsp; `Kafka / gRPC · 1 yr`
 
 <br>
 
-## Outside of code
+❯ **git log --author=fernando --stat experience/ -n 3**
 
-- Learning German (the compound words are winning)
-- Pursuing a math degree at UNADM
-- Dialing in espresso recipes
+**Engineer II** @ SimplePractice &nbsp;·&nbsp; `06/2025 – Present`
+· Backend engineer on high performance, scalable systems for healthcare practice management
+· Building resilient infrastructure with Ember.js and Ruby on Rails for critical healthcare delivery
 
-<br>
+**Senior Software Engineer** @ Bugcrowd (via Encora) &nbsp;·&nbsp; `06/2024 – 05/2025`
+· Developed features across the API and integrations team using React, Ruby, and Rails
+· Built and maintained integrations connecting Bugcrowd's platform with partner and customer systems
 
-## Previously
-
-<details>
-<summary>Bloomberg, The Bouqs, Acima Credit, Digital FEMSA, Liquido, Conekta, Apptegy, Mexican Federal Health Ministry</summary>
-<br>
-
-| Company | 
-|---|
-| Bloomberg |
-| The Bouqs |
-| Acima Credit |
-| Digital FEMSA |
-| Liquido |
-| Conekta |
-| Apptegy |
-| Mexican Federal Health Ministry |
-
-</details>
+**Senior Software Engineer** @ Acima &nbsp;·&nbsp; `04/2023 – 05/2024`
+· Built scalable fintech backend services for lease-to-own payment solutions, incorporating Kafka for event streaming
+· Worked with Kubernetes for container orchestration across services
 
 <br>
 
-## Contact
+❯ **cat contact.txt**
 
-<div align="center">
+`$` mexico_city, mx &nbsp;&nbsp; `$` [fernando.ruiz@hey.com](mailto:fernando.ruiz@hey.com) &nbsp;&nbsp; `$` [github.com/fruizg0302](https://github.com/fruizg0302)
 
-📧 [fernando.ruiz@hey.com](mailto:fernando.ruiz@hey.com) &nbsp;·&nbsp; 💬 [@fruizg0302 on Telegram](https://t.me/fruizg0302)
+<br>
 
-</div>
+<sub>● process exited (0)</sub>
